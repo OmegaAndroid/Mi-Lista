@@ -1,0 +1,210 @@
+#EXTM3U
+
+
+
+EXTINF:-1 ,TVE
+
+https://rtvelivestream.akamaized.net/segments/la1/la1_ma
+
+in_720.m3u8
+
+
+
+EXTINF:-1 ,La 2
+
+https://rtvelivestream.akamaized.net/segments/la2/la2_ma
+
+in.m3u8?idasset=1688885
+
+
+
+EXTINF:-1 ,Playz
+
+https://rtvelivestream.akamaized.net/hls/nxrtgolumi/musi
+
+c/stream1.m3u8?idasset=5836726
+
+
+
+
+EXTINF:-1 ,Star HD
+
+https://megatelevisionhd.com/bm.html?
+
+get=aHR0cHM6Ly9jaGFubmVsLXN0YXJ0dmUtY2RuLmJsaW0uY29tL21h
+
+bmlmZXN0Lm1wZA==
+
+
+
+EXTINF:-1 ,24h
+
+https://rtvelivestream.akamaized.net/segments/24h/24h_ma
+
+in.m3u8?idasset=1694255
+
+
+
+EXTINF:-1 ,Tdp
+
+https://rtvelivestream.akamaized.net/segments/tdp/tdp_ma
+
+in.m3u8?idasset=1712295
+
+
+
+EXTINF:-1 ,Antena 3
+
+https://atres-
+
+live.atresmedia.com/53cee2a4b1bce6c2b39d4a8768c62807bff6
+
+4ba2_ES_1667332556_1667361296/h264/live/antena3/master.m
+
+3u8
+
+
+
+EXTINF:-1 ,La Sexta
+
+https://atres-
+
+live.atresmedia.com/d0bd3a724c9e7110b1845ffba84b873eb783
+
+4581_ES_1667332862_1667361602/h264/live/lasexta/master.m
+
+3u8
+
+
+
+EXTINF:-1 ,Mega
+
+https://atres-
+
+live.atresmedia.com/9bff7c533dd556d22fb5610ac39ca8d65700
+
+399a_ES_1667333001_1667361741/h264/live/mega/master.m3u8
+
+
+
+EXTINF:-1 ,Neox
+
+https://atres-
+
+live.atresmedia.com/a83378912e3a6f0b350a892aa9a4df32230b
+
+afef_ES_1667332729_1667361469/h264/live/neox/master.m3u8
+
+
+
+EXTINF:-1 ,Nova
+
+https://atres-
+
+live.atresmedia.com/b2edbb6fc9c994d36c5a93609ebde3a3f560
+
+04c9_ES_1667332968_1667361708/h264/live/nova/master.m3u8
+
+
+
+EXTINF:-1 ,Antena 3 Series
+
+https://atres-
+
+live.atresmedia.com/fdeab2086f0f47d24cfa51519d91c1b20e39
+
+6fb5_ES_1667333075_1667361815/h264/live/a3series/master.
+
+m3u8
+
+
+
+EXTINF:-1 ,Cuatro
+
+https://directos.mitele.es/orilinear09/live/linear09/mai
+
+n/main.isml/main.m3u8?
+
+hdnts=st=1667330012~exp=1667330192~acl=/*~hmac=66f050387
+
+53d33390ab798f81f14ce086d3b447f9c6f5893d2014ec8a281335a
+
+
+
+EXTINF:-1 ,Telecinco
+
+https://directos.mitele.es/orilinear01/live/linear01/mai
+
+n/main.isml/main.m3u8?
+
+hdnts=st=1667331916~exp=1667332096~acl=/*~hmac=337f1a2af
+
+b6fe2b97da6c86acd097da9d3ba467313cfe5723cc39fcf1e509b1e
+
+
+
+EXTINF:-1 ,Divinity
+
+https://directos.mitele.es/orilinear04/live/linear04/mai
+
+n/main.isml/web.m3u8?
+
+hdnts=st=1667331971~exp=1667332151~acl=/*~hmac=29c62b560
+
+372f84c8a49643b1a9263ff3cc596fbf5ef371f755a377bf0779fc3
+
+
+
+EXTINF:-1 ,FDF
+
+https://directos.mitele.es/orilinear10/live/linear10/mai
+
+n/main.isml/web.m3u8?
+
+hdnts=st=1667332055~exp=1667332234~acl=/*~hmac=7ac5f0eb2
+
+a36c805cfe27012306aa65c7b93f4ccce2930fffbb5d24a734da0be
+
+
+
+EXTINF:-1 ,Energy
+
+https://directos.mitele.es/orilinear03/live/linear03/mai
+
+n/main.isml/web.m3u8?
+
+hdnts=st=1667332096~exp=1667332276~acl=/*~hmac=16a1525db
+
+348cf3288abf00fddb6aa60248837f7c43e301526c5556e353afe13
+
+
+
+EXTINF:-1 ,Be Mad
+
+https://directos.mitele.es/orilinear03/live/linear03/mai
+
+n/main.isml/web.m3u8?
+
+hdnts=st=1667332096~exp=1667332276~acl=/*~hmac=16a1525db
+
+348cf3288abf00fddb6aa60248837f7c43e301526c5556e353afe13
+
+
+
+EXTINF:-1 ,Mt Mad
+
+https://directos.mitele.es/orilinear15/live/linear15/mai
+
+n/main.isml/.m3u8?
+
+hdnts=st=1667332269~exp=1667332449~acl=/*~hmac=6fbf19c05
+
+e1e2cd6ffefab832b1ba1670910d55930c123b266e54bf1ac14bdd0
+
+
+
+EXTINF:-1 ,Paramount
+
+http://tvnov.com/es/watch/span/m3u/jeeeee/paramountnetwo
+
+rk.m3u8
