@@ -10,13 +10,13 @@ https://rtvelivestream.akamaized.net/segments/la1/la1_main_720.m3u8
 
 EXTINF:-1 ,La 2
 
-https://rtvelivestream.akamaized.net/segments/la2/la2_main.m3u8?idasset=1688885
+https://rtvelivestream.akamaized.net/segments/la2/la2_main.m3u8
 
 
 
 EXTINF:-1 ,Playz
 
-https://rtvelivestream.akamaized.net/hls/nxrtgolumi/music/stream1.m3u8?idasset=5836726
+https://rtvelivestream.akamaized.net/hls/nxrtgolumi/music/stream1.m3u8
 
 
 
@@ -29,13 +29,13 @@ https://megatelevisionhd.com/bm.html?get=aHR0cHM6Ly9jaGFubmVsLXN0YXJ0dmUtY2RuLmJ
 
 EXTINF:-1 ,24h
 
-https://rtvelivestream.akamaized.net/segments/24h/24h_main.m3u8?idasset=1694255
+https://rtvelivestream.akamaized.net/segments/24h/24h_main.m3u8
 
 
 
 EXTINF:-1 ,Tdp
 
-https://rtvelivestream.akamaized.net/segments/tdp/tdp_main.m3u8?idasset=1712295
+https://rtvelivestream.akamaized.net/segments/tdp/tdp_main.m3u8
 
 
 
@@ -77,43 +77,42 @@ https://atres-live.atresmedia.com/fdeab2086f0f47d24cfa51519d91c1b20e396fb5_ES_16
 
 EXTINF:-1 ,Cuatro
 
-https://directos.mitele.es/orilinear09/live/linear09/main/main.isml/main.m3u8?hdnts=st=1667330012~exp=1667330192~acl=/*~hmac=66f05038753d33390ab798f81f14ce086d3b447f9c6f5893d2014ec8a281335a
+https://directos.mitele.es/orilinear09/live/linear09/main/main.isml/main.m3u8
 
 
 
 EXTINF:-1 ,Telecinco
 
-https://directos.mitele.es/orilinear01/live/linear01/main/main.isml/main.m3u8?hdnts=st=1667331916~exp=1667332096~acl=/*~hmac=337f1a2afb6fe2b97da6c86acd097da9d3ba467313cfe5723cc39fcf1e509b1e
+https://directos.mitele.es/orilinear01/live/linear01/main/main.isml/main.m3u8
 
 
 
 EXTINF:-1 ,Divinity
 
-https://directos.mitele.es/orilinear04/live/linear04/main/main.isml/web.m3u8?hdnts=st=1667331971~exp=1667332151~acl=/*~hmac=29c62b560372f84c8a49643b1a9263ff3cc596fbf5ef371f755a377bf0779fc3
+https://directos.mitele.es/orilinear04/live/linear04/main/main.isml/web.m3u8
 
 
 
 EXTINF:-1 ,FDF
 
-https://directos.mitele.es/orilinear10/live/linear10/main/main.isml/web.m3u8?hdnts=st=1667332055~exp=1667332234~acl=/*~hmac=7ac5f0eb2a36c805cfe27012306aa65c7b93f4ccce2930fffbb5d24a734da0be
+https://directos.mitele.es/orilinear10/live/linear10/main/main.isml/web.m3u8
 
 
 
 EXTINF:-1 ,Energy
 
-https://directos.mitele.es/orilinear03/live/linear03/main/main.isml/web.m3u8?hdnts=st=1667332096~exp=1667332276~acl=/*~hmac=16a1525db348cf3288abf00fddb6aa60248837f7c43e301526c5556e353afe13
+https://directos.mitele.es/orilinear03/live/linear03/main/main.isml/web.m3u8
 
 
 
 EXTINF:-1 ,Be Mad
 
-https://directos.mitele.es/orilinear03/live/linear03/main/main.isml/web.m3u8?hdnts=st=1667332096~exp=1667332276~acl=/*~hmac=16a1525db348cf3288abf00fddb6aa60248837f7c43e301526c5556e353afe13
-
+https://directos.mitele.es/orilinear03/live/linear03/main/main.isml/web.m3u8
 
 
 EXTINF:-1 ,Mt Mad
 
-https://directos.mitele.es/orilinear15/live/linear15/main/main.isml/.m3u8?hdnts=st=1667332269~exp=1667332449~acl=/*~hmac=6fbf19c05e1e2cd6ffefab832b1ba1670910d55930c123b266e54bf1ac14bdd0
+https://directos.mitele.es/orilinear15/live/linear15/main/main.isml/.m3u8
 
 
 
